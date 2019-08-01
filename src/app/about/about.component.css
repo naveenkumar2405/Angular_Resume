@@ -1,0 +1,23 @@
+.address{
+  color: black;
+}
+
+.subheading{
+  color: rgb(49, 27, 137);
+}
+
+.title{
+  /* color: rgb(13, 25, 83); */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: -webkit-linear-gradient(rgb(74, 3, 18), rgb(58, 14, 169));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.s{
+  color: rgba(144, 20, 20, 0.591);
+}
+
+#s1{
+  color: rgba(4, 30, 125, 0.694);
+}

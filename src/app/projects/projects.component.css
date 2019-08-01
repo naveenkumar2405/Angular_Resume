@@ -1,0 +1,24 @@
+.demo{
+  font-size: 30px;
+  background: -webkit-linear-gradient(rgb(213, 9, 36), rgb(21, 19, 22));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.head{
+  font-size: 40px;
+  text-align: center;
+  background: -webkit-linear-gradient(rgb(24, 19, 19), rgb(6, 6, 240));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.subheading{
+  font-size: 28px;
+  background: -webkit-linear-gradient(rgb(3, 57, 252), rgb(12, 15, 14));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#content{
+  color: rgb(8, 66, 81);
+  font-size: 15px;
+}

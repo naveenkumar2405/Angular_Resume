@@ -1,0 +1,7 @@
+.heading{
+  font-size: 40px;
+  background: -webkit-linear-gradient(rgb(84, 6, 108), rgb(23, 1, 79));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+

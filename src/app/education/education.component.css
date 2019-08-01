@@ -1,0 +1,26 @@
+.subheading{
+  color: rgb(128, 2, 44);
+}
+
+.percent{
+  color: rgb(3, 95, 22);
+}
+
+.q{
+  color: rgb(3, 111, 243);
+}
+
+.demo{
+  font-size: 28px;
+  background: -webkit-linear-gradient(rgb(29, 87, 223), rgb(46, 1, 81));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.head{
+  font-size: 42px;
+  text-align: center;
+  background: -webkit-linear-gradient(rgb(15, 16, 17), rgb(11, 11, 213));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
